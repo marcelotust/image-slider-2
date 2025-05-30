@@ -95,6 +95,9 @@ export const ImageSlider: React.FC<Props> = ({ images, width, height }) => {
             y={0}
             draggable
             onDragMove={handleDragMove}
+            onDragEnd={() => {
+              document.body.style.cursor = "grab";
+            }}
             onMouseOver={() => {
               document.body.style.cursor = "grab";
             }}
