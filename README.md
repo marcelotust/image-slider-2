@@ -57,11 +57,7 @@ After building the project, you can preview the production-ready build locally u
 npm run preview
 ```
 
-You should see output like:
-
 Open your browser at [http://localhost:3030/](http://localhost:3030/) to see the project.
-
-Open that URL in your browser to verify everything works as expected.
 
 ✅ **Tested on:**
 
