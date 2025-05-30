@@ -54,6 +54,7 @@ After building the project, you can preview the production-ready build locally u
 
 ```bash
 # Preview the production build
+npm run build
 npm run preview
 ```
 
