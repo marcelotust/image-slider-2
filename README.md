@@ -59,9 +59,7 @@ npm run preview
 
 You should see output like:
 
-```
-  Local: http://localhost:3030/
-```
+Open your browser at [http://localhost:3030/](http://localhost:3030/) to see the project.
 
 Open that URL in your browser to verify everything works as expected.
 
