@@ -30,10 +30,13 @@ To run the app locally or via static preview, follow the steps below.
 ### 🧪 Development Mode
 
 ```bash
-# 1. Install dependencies
+# 1. Load the right version of Node.js (ensure you have nvm installed)
+nvm use
+
+# 2. Install dependencies
 npm install
 
-# 2. Run the development server
+# 3. Run the development server
 npm run dev
 ```
 
